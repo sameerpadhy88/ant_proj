@@ -53,5 +53,5 @@ public class User {
 		this.mailingList = mailingList;
 	}
 	
-	
+	System.out.println("Hello World");
 }
